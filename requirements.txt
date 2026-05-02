@@ -86,3 +86,5 @@ zstandard
 rank-bm25
 langdetect
 pyvis
+torch
+torchvision
