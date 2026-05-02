@@ -1,0 +1,26 @@
+# Environment variables (NEVER commit these!)
+.env
+.env.local
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment
+.venv/
+venv/
+ENV/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Vector database (optional - comment out if you want to include)
+vectorstore/db_faiss/*.faiss
+vectorstore/db_faiss/*.pkl

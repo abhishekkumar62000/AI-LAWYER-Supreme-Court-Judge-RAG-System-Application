@@ -1,0 +1,11 @@
+[
+  {
+    "doc_id": "e75f479c5cc632e88dcf3da247bbef96b093462610c0eee53d281f1fe379661c",
+    "name": "universal_declaration_of_human_rights.pdf",
+    "size": 195195,
+    "created_at": "2026-02-22T16:50:03.041899Z",
+    "pdf_path": "pdfs/e75f479c5cc632e88dcf3da247bbef96b093462610c0eee53d281f1fe379661c_universal_declaration_of_human_rights.pdf",
+    "db_path": "vectorstore/db_faiss\\e75f479c5cc632e88dcf3da247bbef96b093462610c0eee53d281f1fe379661c",
+    "embed_model": "nomic-embed-text"
+  }
+]
