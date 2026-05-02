@@ -1,3 +1,10 @@
+<img width="1920" height="1024" alt="1" src="https://github.com/user-attachments/assets/cf7dd6f2-e9ba-47a2-b519-02756bb3d33d" />
+<img width="1908" height="1020" alt="4" src="https://github.com/user-attachments/assets/93a20245-999b-4a1f-8ebd-153cd7fe2670" />
+
+# App Demo:-
+
+https://github.com/user-attachments/assets/ce4e461a-1195-4a27-809a-ec256a26e744
+
 # ⚖️ AI Lawyer: Supreme Court Judge RAG System
 ### *Revolutionizing Legal Intelligence with Hybrid RAG & Courtroom Simulation*
 
